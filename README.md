@@ -1,2 +1,1 @@
-# exquatorze
-Exercício 14 dos slides
+Exercício do triângulo dos slides
