@@ -1,1 +1,1 @@
-Exercício do triângulo dos slides
+Exercício do triângulo dos slides.
